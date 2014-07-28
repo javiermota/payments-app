@@ -1,0 +1,10 @@
+bower_components
+node_mdoules
+app/scripts/vendor
+test
+temp
+.tmp
+tmp
+dist
+build
+release

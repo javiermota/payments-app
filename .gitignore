@@ -1,0 +1,14 @@
+# App
+app/styles/css
+app/components
+bower_components
+
+# Node
+npm-debug.log
+node_modules
+
+# Caches
+.sass-cache
+
+# Tools
+BrowserStackTunnel.jar
